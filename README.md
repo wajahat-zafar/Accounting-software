@@ -14,8 +14,7 @@ This System is developed using **Python**. Following are the libraries used:
 ◉ The system shows ledgers, accounts and other data which can also be updated and new record can be added.<br>
 ◉ Trial Balance, Balance Sheet, Income Statements, Closing entries are all calculated.<br>
 
-The System is developed by Muhammad Osama [(Github)](https://github.com/Osama710) [(LinkedIn)](https://www.linkedin.com/in/osama-yousuf-6a1952177/)
-
+The System is developed by Muhammad wajahat 
 ## Screenshots<br>
 ![](./Screenshots/acc.PNG)
 ![](./Screenshots/balance.PNG)
